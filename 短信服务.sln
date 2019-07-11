@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "短信服务", "短信服务\短信服务.csproj", "{7769E146-A143-4EAA-AE3D-2196270B474E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "短信客户端", "短信客户端\短信客户端.csproj", "{45A3092C-A1D1-43F1-AACD-B3FCC1B8BE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicApi", "PublicApi\PublicApi.csproj", "{3BEABD36-25E3-44D4-94CF-17FABD1B3A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7769E146-A143-4EAA-AE3D-2196270B474E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7769E146-A143-4EAA-AE3D-2196270B474E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7769E146-A143-4EAA-AE3D-2196270B474E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7769E146-A143-4EAA-AE3D-2196270B474E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A3092C-A1D1-43F1-AACD-B3FCC1B8BE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A3092C-A1D1-43F1-AACD-B3FCC1B8BE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A3092C-A1D1-43F1-AACD-B3FCC1B8BE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A3092C-A1D1-43F1-AACD-B3FCC1B8BE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEABD36-25E3-44D4-94CF-17FABD1B3A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEABD36-25E3-44D4-94CF-17FABD1B3A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEABD36-25E3-44D4-94CF-17FABD1B3A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEABD36-25E3-44D4-94CF-17FABD1B3A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
